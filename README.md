@@ -1,8 +1,8 @@
-# Hello!
+<img src="My Banner Landscape.png" alt="my banner" width="800px" align="center">
+
+# Hello world!
 ## 🧘🏻‍♀️ I'm Ester Pinheiro
 `UX/UI Designer and Product Designer`
-
-<img src="anima.jpeg" alt="minha animacao"  width="400px" align="center">
 
 <p align="left"> 
 Driven by curiosity and the belief that the impossible is a matter of opinion, I transitioned my 12+ years of leadership and business vision from the tempered glass industry to the digital universe. My background in Architecture, combined with a specialisation in UX/UI Design and Digital Products, allows me to unite aesthetics and functionality in designing user-centered experiences that deliver real impact. I am now seeking a team where I can apply my creativity, analytical capacity, and global adaptability (honed in Ireland) to exceed user expectations.
@@ -30,3 +30,6 @@ Driven by curiosity and the belief that the impossible is a matter of opinion, I
   <a href="https://www.instagram.com/estercpinheiro/" target="_blank" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[LINK-DO-SEU-INSTAGRAM](https://www.instagram.com/estercpinheiro/)" alt="Instagram"/></a>
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=80&color=0:742EEC,100:E2E2F3&section=footer&reversal=true&textBg=false)
+
