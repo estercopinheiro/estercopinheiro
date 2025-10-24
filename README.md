@@ -1,6 +1,6 @@
-<img src="My Banner Landscape.png" alt="my banner" width="800px" align="center">
+<img src="./Assets/My Banner.png" alt="my banner" width="800px" align="center">
 
-# Hello world!
+# Hello world! 🌎
 ## 🧘🏻‍♀️ I'm Ester Pinheiro
 `UX/UI Designer and Product Designer`
 
