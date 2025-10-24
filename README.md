@@ -1,4 +1,6 @@
-<img src="./Assets/My Banner.png" alt="my banner" width="800px" align="center">
+<div align="center">
+  <img src="Assets/My Banner.png" alt="My Banner" width="800px" />
+</div>
 
 # Hello world! 🌎
 ## 🧘🏻‍♀️ I'm Ester Pinheiro
