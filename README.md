@@ -7,17 +7,17 @@
   
 <img src="Assets/organic-flow.svg" width="100%" alt="Abstract flowing shapes in purple and blue" />
 
+# Ester Pinheiro
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Product+Designer;UX%2FUI+Designer;Exploring+the+intersection+of+design+%26+technology" alt="Animated introduction" />
 </a>
-
-# Ester Pinheiro
 
 ### Designing meaningful digital experiences.
 
 *Where people, business, and technology meet.*
 
-[Portfolio](#selected-work) · [LinkedIn](https://www.linkedin.com/in/ester-pinheiro/) · [Email](mailto:ester.copinheiro@gmail.com)
+[Portfolio](https://estercopinheiro.github.io/virtualcard/) · [LinkedIn](https://www.linkedin.com/in/ester-pinheiro/) · [Email](mailto:ester.copinheiro@gmail.com)
 
 </div>
 
