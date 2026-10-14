@@ -3,25 +3,40 @@
 </div>
 
 # Hello world! 🌎
-## 🧘🏻‍♀️ I'm Ester Pinheiro
-`UX/UI Designer and Product Designer`
+## 👋 I'm Ester Pinheiro
+`Product Designer | UX/UI Designer`
 
 <p align="left"> 
-Driven by curiosity and the belief that the impossible is a matter of opinion, I transitioned my 12+ years of leadership and business vision from the tempered glass industry to the digital universe. My background in Architecture, combined with a specialisation in UX/UI Design and Digital Products, allows me to unite aesthetics and functionality in designing user-centered experiences that deliver real impact. I am now seeking a team where I can apply my creativity, analytical capacity, and global adaptability (honed in Ireland) to exceed user expectations.
+I believe great digital products are built at the intersection of user needs, business strategy, and thoughtful design.
+
+With a background in Architecture and Urbanism, a specialization in UX/UI Design and Digital Products, and over 12 years of experience in the tempered glass industry, I bring a multidisciplinary perspective to product design. My journey combines business vision, analytical thinking, creativity, and a deep interest in understanding people and solving real-world problems.
+
+Today, I work across the product design process - from research and problem framing to user flows, wireframes, prototyping, and usability improvements. I'm particularly interested in turning complex challenges into intuitive, accessible, and meaningful digital experiences.
+
+I'm also building Lumivi, a digital product designed to simplify the glass solutions market, connecting consumer needs with professional expertise. This journey allows me to explore product strategy, validate assumptions, and understand the challenges of building a product from the ground up.
 </p>
 
 <p align="left">
 💼 What's in my carry-on:
  <ul>
-    <li>Tools: Figma</li>
-    <li>Artefacts and Deliverables: Low, Medium and High-Fidelity Prototypes, Wireframes, and Interaction Flows</li>
-    <li>Processes and Methodologies: User Journey Mapping, Design Systems, Research, and Design Thinking</li>
-    <li>Additional Knowledge: Design Sprints and Agile Methodologies</li>
+    <li>Design & Prototyping: Figma, Wireframes, Interactive Prototypes</li>
+    <li>UX Research & Strategy: User Research, User Journey Mapping, Design Thinking, Problem Framing</li>
+    <li>Product Design: User Flows, Information Architecture, Usability, Design Systems</li>
+    <li>Ways of Working: Agile Methodologies, Design Sprints, Cross-functional Collaboration</li>
+    <li>Additional Skills: HTML, CSS, GitHub, and AI-powered prototyping tools</li>
  </ul> 
 </p>
 
 <p align="left">
-  📥 Would you like to talk? I enjoy exchanging ideas, exploring possibilities, and considering solutions that go beyond the obvious.
+🚀 What drives me
+
+I'm curious about how people interact with technology, how businesses create value, and how thoughtful design can bridge the gap between the two. I enjoy learning, experimenting, collaborating, and challenging assumptions to build better products.
+</p>
+
+<p align="left">
+  🤝 Let's connect!
+  
+  I'm always happy to exchange ideas, discuss product challenges, and explore new possibilities.
 </p>
 
 <p align="left">
