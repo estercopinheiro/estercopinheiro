@@ -1,52 +1,79 @@
+<!--
+  ESTER PINHEIRO — GITHUB PROFILE README
+  Visual direction: Organic experimental / Purple & blue
+-->
+
 <div align="center">
-  <img src="Assets/My Banner.png" alt="My Banner" width="800px" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Product+Designer;UX%2FUI+Designer;Exploring+the+intersection+of+design+%26+technology" alt="Animated introduction" />
+</a>
+
+# Ester Pinheiro
+
+### Designing meaningful digital experiences.
+
+*Where people, business, and technology meet.*
+
+[Portfolio](#selected-work) · [LinkedIn](https://www.linkedin.com/in/ester-pinheiro/) · [Email](mailto:ester.copinheiro@gmail.com)
+
 </div>
 
-# Hello world! 🌎
-## 👋 I'm Ester Pinheiro
-`Product Designer | UX/UI Designer`
+---
 
-<p align="left"> 
-I believe great digital products are built at the intersection of user needs, business strategy, and thoughtful design.
+## ✦ A little about me
 
-With a background in Architecture and Urbanism, a specialization in UX/UI Design and Digital Products, and over 12 years of experience in the tempered glass industry, I bring a multidisciplinary perspective to product design. My journey combines business vision, analytical thinking, creativity, and a deep interest in understanding people and solving real-world problems.
+I'm a **Product Designer with a multidisciplinary background** in Architecture and Urbanism, business, and digital product design.
 
-Today, I work across the product design process - from research and problem framing to user flows, wireframes, prototyping, and usability improvements. I'm particularly interested in turning complex challenges into intuitive, accessible, and meaningful digital experiences.
+After more than 12 years of experience in the tempered glass industry, I brought my business perspective into the digital world, combining analytical thinking, creativity, and a human-centered approach to problem-solving.
 
-I'm also building Lumivi, a digital product designed to simplify the glass solutions market, connecting consumer needs with professional expertise. This journey allows me to explore product strategy, validate assumptions, and understand the challenges of building a product from the ground up.
-</p>
+My design process goes beyond interfaces. I'm interested in understanding people, framing the right problems, connecting user needs with business goals, and turning complex challenges into intuitive digital experiences.
 
-<p align="left">
-💼 What's in my carry-on:
- <ul>
-    <li>Design & Prototyping: Figma, Wireframes, Interactive Prototypes</li>
-    <li>UX Research & Strategy: User Research, User Journey Mapping, Design Thinking, Problem Framing</li>
-    <li>Product Design: User Flows, Information Architecture, Usability, Design Systems</li>
-    <li>Ways of Working: Agile Methodologies, Design Sprints, Cross-functional Collaboration</li>
-    <li>Additional Skills: HTML, CSS, GitHub, and AI-powered prototyping tools</li>
- </ul> 
-</p>
+Currently, I'm building **Lumivi**, a digital product exploring how technology can simplify the glass solutions market and improve the connection between consumers and professionals.
 
-<p align="left">
-🚀 What drives me
+I believe good design is not just about how things look — it's about how they work, what they make possible, and the value they create.
 
-I'm curious about how people interact with technology, how businesses create value, and how thoughtful design can bridge the gap between the two. I enjoy learning, experimenting, collaborating, and challenging assumptions to build better products.
-</p>
+## ✦ What I work with
 
-<p align="left">
-  🤝 Let's connect!
-  
-  I'm always happy to exchange ideas, discuss product challenges, and explore new possibilities.
-</p>
+| Area | Skills & Practices |
+|---|---|
+| **Product Design** | Product thinking, problem framing, user flows, prototyping |
+| **UX/UI Design** | Information architecture, wireframing, interaction design, usability |
+| **Research & Strategy** | User research, journey mapping, hypothesis validation, Design Thinking |
+| **Design Systems** | UI components, consistency, accessibility, responsive design |
+| **Technology** | Figma, GitHub, HTML, CSS, AI-powered prototyping tools |
+| **Ways of working** | Agile methodologies, Design Sprints, cross-functional collaboration |
 
-<p align="left">
-  <a href="mailto:ester.copinheiro@gmail.com"  target="_blank"" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/ester-pinheiro/" target="_blank" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/ester-pinheiro/)" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/estercpinheiro/" target="_blank" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[LINK-DO-SEU-INSTAGRAM](https://www.instagram.com/estercpinheiro/)" alt="Instagram"/></a>
-</p>
+## ✦ Selected work
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=80&color=0:742EEC,100:E2E2F3&section=footer&reversal=true&textBg=false)
+### Lumivi — Digital product for the glass solutions market
 
+I'm working on a product designed to help connect consumers and glass professionals through a more accessible and intuitive digital experience.
+
+My work explores product strategy, user journeys, interface design, prototyping, and the validation of product assumptions.
+
+**Focus:** Product Design · UX Research · Prototyping · Product Strategy
+
+### More projects coming into focus
+
+I'm continuously exploring new ways to connect design, business, and technology. This profile is where I'll share selected projects, experiments, and learnings along the way.
+
+## ✦ Beyond the interface
+
+Architecture taught me to think in systems, understand context, and balance form with function. Business taught me to look beyond the immediate problem. Product Design brings those perspectives together.
+
+I'm curious about the spaces where **human behavior, technology, and business opportunities intersect**.
+
+## ✦ Let's connect
+
+I'm always happy to exchange ideas, explore new perspectives, and talk about meaningful digital products.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C6EE6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ester-pinheiro/)
+[![Email](https://img.shields.io/badge/Email-Say_hello-5B8DEF?style=flat-square&logo=gmail&logoColor=white)](mailto:ester.copinheiro@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-A78BFA?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/estercpinheiro/)
+
+*Curiosity is where every new perspective begins.*
+
+</div>
